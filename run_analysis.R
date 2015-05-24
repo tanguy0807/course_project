@@ -40,9 +40,6 @@
   
   ############################# STEP 4 ##############################################
   #using descriptive activity names
-  #features$V2 <- gsub("()","",features$V2)
-  #names(X) <- features$V2
-  #names(X) <- paste(features$V1, features$V2, sep="-")
   names(X) <- features$V2[selection]
   
   ############################# STEP 5 ##############################################
