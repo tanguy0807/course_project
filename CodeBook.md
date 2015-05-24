@@ -12,4 +12,4 @@ The "project.R" processes the data with the 5 following steps:
 - step 4: the data set is labeled with descriptive variable names. 
 - step 5: From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-Warning: you will change the working directory and install the packages used in "project.R" in order to run code.
+Warning: you will have to change the working directory and install the packages used in "project.R" in order to run code.
